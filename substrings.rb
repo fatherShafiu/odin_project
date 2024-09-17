@@ -5,6 +5,5 @@ def substrings(word, dictionary)
   end
 end
 #example test
-
 dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
 substrings("below", dictionary)
