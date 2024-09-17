@@ -8,12 +8,3 @@ end
 
 dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
 substrings("below", dictionary)
-\
-
-
-hELLo my name is shafiu. I like eating Pussy a
-
-
-The most important thing for me is to give life to harmish a
-
-yui86dkmgloydsrftfxsb  m   m        6ewscvny
